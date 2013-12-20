@@ -26,8 +26,8 @@ Style: Captions,Arial,22,&H00F6F9F8,&H008B8B8B,&H00515151,&H00000000,0,0,0,0,111
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
-Dialogue: 0,0:00:04.43,0:00:07.53,Behind the Scenes,,0000,0000,0000,,My name is Watson.\NI'm a medical doctor.
-Dialogue: 0,0:00:08.27,0:00:10.64,Behind the Scenes,,0000,0000,0000,,I met a person who claims\Nto be a detective.
+Dialogue: 0,0:00:04.43,0:00:07.53,Behind the Scenes,,0000,0000,0000,,Mon nom est Watson.\NDocteur en médecine.
+Dialogue: 0,0:00:08.27,0:00:10.64,Behind the Scenes,,0000,0000,0000,,J'ai rencontré un homme\Nse disant détective.
 Dialogue: 0,0:00:10.71,0:00:13.20,Behind the Scenes,,0000,0000,0000,,On board a ferry crossing\Nthe Straits of Dover...
 Dialogue: 0,0:00:13.94,0:00:16.38,Behind the Scenes,,0000,0000,0000,,His name is Sherlock Holmes.
 Dialogue: 0,0:00:17.28,0:00:20.25,Behind the Scenes,,0000,0000,0000,,Soon after I met him,\Nwe were involved in a mystery...
